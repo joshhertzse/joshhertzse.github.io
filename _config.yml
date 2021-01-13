@@ -1,1 +1,9 @@
 theme: jekyll-theme-midnight
+# Includes an icon in the footer for each user name you enter
+footer-links:
+  github: joshhertzse
+  twitter: joshhertzse
+# Other stuff
+title: joshhertzse
+description: cloud stuff - vapor
+excerpt_separator: <!--more-->
